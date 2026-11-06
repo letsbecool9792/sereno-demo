@@ -9,4 +9,4 @@ Each commit here whose message is a Sereno payment intent is a **payment**:
 3. GitHub shows the commit as **Verified**, because it's signed with a key on your profile.
 
 The commits are on Base Sepolia (testnet). The repo holds no code, only payment commits.
-hi
+h
